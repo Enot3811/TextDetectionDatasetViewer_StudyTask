@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tagset>
+  <image>
+    <imageName>scene/111-1113_IMG.JPG</imageName>
+    <resolution x="1600" y="1200" />
+    <taggedRectangles>
+      <taggedRectangle x="444" y="42" width="785" height="721" offset="112">
+        <tag>22</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="373" y="744" width="705" height="244" offset="0">
+        <tag>WASHINGTON</tag>
+        <segmentation />
+      </taggedRectangle>
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>scene/111-1126_IMG.JPG</imageName>
+    <resolution x="1600" y="1200" />
+    <taggedRectangles>
+      <taggedRectangle x="151" y="621" width="206" height="38" offset="0">
+        <tag>postgrad</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="374" y="622" width="130" height="42" offset="0">
+        <tag>study</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="623" y="631" width="104" height="27" offset="0">
+        <tag>www</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="736" y="631" width="224" height="42" offset="0">
+        <tag>prospects</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="975" y="635" width="53" height="31" offset="0">
+        <tag>ac</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="1040" y="628" width="56" height="39" offset="0">
+        <tag>uk</tag>
+        <segmentation />
+      </taggedRectangle>
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>scene/111-1137_IMG.JPG</imageName>
+    <resolution x="1600" y="1200" />
+    <taggedRectangles>
+      <taggedRectangle x="1118" y="1076" width="60" height="14" offset="0">
+        <tag>3427N</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="339" y="726" width="831" height="232" offset="0">
+        <tag>STOP</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="235" y="441" width="1024" height="176" offset="0">
+        <tag>EMERGENCY</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="1212" y="1088" width="50" height="17" offset="0">
+        <tag>1101</tag>
+        <segmentation />
+      </taggedRectangle>
+    </taggedRectangles>
+  </image>
+</tagset>
+

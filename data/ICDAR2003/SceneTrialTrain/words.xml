@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tagset>
+  <image>
+    <imageName>apanar_06.08.2002/IMG_1261.JPG</imageName>
+    <resolution x="1600" y="1200" />
+    <taggedRectangles>
+      <taggedRectangle x="174.0" y="392.0" width="274.0" height="195.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>self</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="512.0" y="391.0" width="679.0" height="183.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>adhesive</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="184.0" y="612.0" width="622.0" height="174.0" offset="-2.0" rotation="0.0" userName="admin">
+        <tag>address</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="863.0" y="599.0" width="446.0" height="187.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>labels</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="72.0" y="6.0" width="95.0" height="87.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>36</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="247.0" y="2.0" width="197.0" height="88.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>89m</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="792.0" y="0.0" width="115.0" height="81.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>cls</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="200.0" y="848.0" width="228.0" height="139.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>250</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="473.0" y="878.0" width="165.0" height="109.0" offset="14.0" rotation="0.0" userName="admin">
+        <tag>on</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="684.0" y="878.0" width="71.0" height="106.0" offset="12.0" rotation="0.0" userName="admin">
+        <tag>a</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="806.0" y="844.0" width="218.0" height="141.0" offset="26.0" rotation="0.0" userName="admin">
+        <tag>roll</tag>
+        <segmentation />
+      </taggedRectangle>
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>apanar_06.08.2002/IMG_1263.JPG</imageName>
+    <resolution x="1600" y="1200" />
+    <taggedRectangles>
+      <taggedRectangle x="432.0" y="635.0" width="847.0" height="172.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>Natwest</tag>
+        <segmentation />
+      </taggedRectangle>
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>apanar_06.08.2002/IMG_1265.JPG</imageName>
+    <resolution x="1600" y="1200" />
+    <taggedRectangles>
+      <taggedRectangle x="656.0" y="222.0" width="502.0" height="81.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>GREEK</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="626.0" y="253.0" width="540.0" height="31.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>GASTRONOMY</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="709.0" y="307.0" width="409.0" height="69.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>COOKERY</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="791.0" y="368.0" width="265.0" height="73.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>WINES</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="1152.0" y="953.0" width="57.0" height="19.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>LOCAL</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="653.0" y="1006.0" width="63.0" height="15.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>TOUBRS</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="1101.0" y="974.0" width="111.0" height="14.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>SPECIALTIES</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="1065.0" y="1000.0" width="70.0" height="16.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>FESTIVE</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="1138.0" y="1000.0" width="74.0" height="15.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>RECIPES</tag>
+        <segmentation />
+      </taggedRectangle>
+      <taggedRectangle x="1067.0" y="1025.0" width="145.0" height="18.0" offset="0.0" rotation="0.0" userName="admin">
+        <tag>ILLUSTRATED</tag>
+        <segmentation />
+      </taggedRectangle>
+    </taggedRectangles>
+  </image>
+</tagset>
+

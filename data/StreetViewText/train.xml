@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>img/14_03.jpg</imageName>
+      <address>341 Southwest 10th Avenue Portland OR</address>
+      <lex>LIVING,ROOM,THEATERS,KENNY,ZUKE,DELICATESSEN,CLYDE,COMMON,ACE,HOTEL,PORTLAND,ROSE,CITY,BOOKS,STUMPTOWN,COFFEE,ROASTERS,RED,CAP,GARAGE,FISH,GROTTO,SEAFOOD,RESTAURANT,AURA,RESTAURANT,LOUNGE,ROCCO,PIZZA,PASTA,BUFFALO,EXCHANGE,MARK,SPENCER,LIGHT,FEZ,BALLROOM,READING,FRENZY,ROXY,SCANDALS,MARTINOTTI,CAFE,DELI,CROWSENBERG,HALF</lex>
+      <Resolution x="1280" y="880"/>
+      <taggedRectangles>
+         <taggedRectangle height="75" width="236" x="375" y="253">
+            <tag>LIVING</tag>
+         </taggedRectangle>
+         <taggedRectangle height="76" width="175" x="639" y="272">
+            <tag>ROOM</tag>
+         </taggedRectangle>
+         <taggedRectangle height="87" width="281" x="839" y="283">
+            <tag>THEATERS</tag>
+         </taggedRectangle>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>img/14_04.jpg</imageName>
+      <address>1100 Southwest 6th Avenue Portland OR</address>
+      <lex>PORTLANDIA,PORTLAND,BUILDING,AUDITORIUM,PACWEST,CENTER,SEATTLE,BEST,COFFEE,THE,MELTING,POT,CITY,BUREAU,RISK,MANAGEMENT,SCHNITZER,CONCERT,HALL,HEATHMAN,HOTEL,STANDARD,PLAZA,STEAMERS,ASIAN,STREET,BISTRO,EWEN,GISVOLD,GUS,SOLOMON,UNITED,STATES,COURTHOUSE,TREES,RESTAURANT,CATERING,CONGRESS,INTERNATIONAL,RELATIONS,TRANSPORTATION,DEPARTMENT,DUFFY,KEKEL,LLP,INSURANCE,TICHENOR,DZIUBA,LLP,CONKLING,FISKUM,MCCORMICK</lex>
+      <Resolution x="1276" y="884"/>
+      <taggedRectangles>
+         <taggedRectangle height="64" width="366" x="571" y="344">
+            <tag>INSURANCE</tag>
+         </taggedRectangle>
+         <taggedRectangle height="84" width="354" x="180" y="310">
+            <tag>STANDARD</tag>
+         </taggedRectangle>
+         <taggedRectangle height="64" width="229" x="973" y="359">
+            <tag>CENTER</tag>
+         </taggedRectangle>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>img/06_08.jpg</imageName>
+      <address>2004 Greenville Avenue Dallas TX</address>
+      <lex>LULA,ANTIQUE,MALL,ZUBAR,TEPPO,YAKITORI,SUSHI,BAR,GEZELLIG,WHISKY,GREENVILLE,AVENUE,PUBLIC,HOUSE,THE,GIRLS,ROOM,ZYMOLOGY,HOTEL,CAPRI,SERVICE,PIZZA,BILLIARD,SUEDE,ZEPHYRS,PATIO,LOUNGE,ELAN,MAKEUP,STUDIO,NANDINA,ASIAN,TAPAS,OLD,CROW,SLICE,SUGAR,CREEK,EIGHT</lex>
+      <Resolution x="1680" y="1050"/>
+      <taggedRectangles>
+         <taggedRectangle height="64" width="171" x="756" y="410">
+            <tag>ANTIQUE</tag>
+         </taggedRectangle>
+         <taggedRectangle height="54" width="113" x="591" y="416">
+            <tag>LULA</tag>
+         </taggedRectangle>
+         <taggedRectangle height="50" width="116" x="927" y="420">
+            <tag>MALL</tag>
+         </taggedRectangle>
+         <taggedRectangle height="35" width="87" x="1000" y="551">
+            <tag>LULA</tag>
+         </taggedRectangle>
+      </taggedRectangles>
+   </image>
+</tagset>
